@@ -1,0 +1,15 @@
+{
+  "name": "kinoashxarh_front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "ng-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://nune-aramyan.github.io/website-movies",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
